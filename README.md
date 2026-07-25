@@ -109,19 +109,6 @@ Model evaluation includes:
 
 ---
 
-# Future Improvements
-
-Potential improvements include:
-
-- Transfer Learning (ResNet50)
-- EfficientNet
-- MobileNet
-- Data Augmentation
-- Early Stopping
-- Learning Rate Scheduling
-
----
-
 ## Author
 
 **Cynthia Amarachi Eze**
